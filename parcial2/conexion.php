@@ -2,7 +2,7 @@
 
 $server = "localhost";
 $user = "root";
-$password = "12345678"; //si tienes xampp es $password = ""
+$password = ""; //si tienes xampp es $password = ""
 
 //conexion
 
